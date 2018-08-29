@@ -7,9 +7,9 @@ favicon: /favicon.ico
 # Header
 
 # Keywords of your site | 网站关键字
-keywords: Evli's Blog
+keywords: Jyy's Blog
 # Head headline | 头部标题
-header_title: Evli's Blog
+header_title: Jyy's Blog
 # Head description | 头部描述
 header_description: 一个专注 WEB 开发的技术博客
 # Link to your logo | logo地址
@@ -41,12 +41,12 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: Evil
-    url: //www.htmler.cn
+    title: Jyy
+    url: //jiangyy.com
     target: true
   github:
     title: Github
-    url: //github.com/
+    url: //Jyysky.github.io
     target: true
   weibo:
     title: Weibo
@@ -73,7 +73,7 @@ excerpt_link: 查看更多>>
 # New window open link | 新窗口打开文章
 open_new_link: false
 # Article default cover picture，size：350*150 | 文章默认封面图，尺寸：350*150
-cover_picture: images/banner.jpg
+cover_picture: images/timg.jpg
 # Open background particles | 开启背景粒子
 open_bg_particle: true
 # Open animation in homepage and head | 开启主页及头部动画
@@ -110,7 +110,17 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+  enable: true
+  appId: bIRqShpLpLRbR5flilRMtffK-gzGzoHsz
+  appKey: sbzq0amgTeoEKMcuEhkaG8GN
+  notify: false
+  verify: false
+  avater: mm
+  placeholder: 你想怎么评论
+  huest_info: nick,mail,site
+  pagSize: 10
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
@@ -137,4 +147,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 Evil
+copyright: 2018 Jyy
